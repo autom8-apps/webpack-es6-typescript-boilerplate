@@ -1,0 +1,28 @@
+{
+  "keywords": [
+    "todo",
+    "fixme"
+  ],
+  "includes": [
+    "."
+  ],
+  "excludes": [
+    ".git",
+    "build",
+    "node_modules",
+    "package.json"
+  ],
+  "extensions": [
+    "js",
+    "ts"
+  ],
+  "jira": {
+    "hostname": "",
+    "project": ""
+  },
+  "github": {
+    "hostname": "",
+    "repository": "",
+    "organization": ""
+  }
+}
