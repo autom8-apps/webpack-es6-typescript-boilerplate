@@ -17,7 +17,7 @@ module.exports = {
   },
   output: {
     path: path.resolve(__dirname) + "/dist",
-    library: 'Permute',
+    library: 'YOUR_LIBRARY_NAME',
     libraryTarget: 'umd'
   },
   devServer: {
