@@ -1,7 +1,4 @@
 {
-  "name": "permutejs",
-  "version": "1.1.1",
-  "description": "A simple frontend data manager for normalizing and validating data to help promote a more 'immutable' API for frontend applications that rely on mutuable data structures.",
   "main": "/dist/main.js",
   "typings": "index.d.ts",
   "scripts": {
@@ -11,7 +8,6 @@
     "test": "jest",
     "debug": "node --inspect-brk node_modules/.bin/jest --runInBand"
   },
-  "author": "Jeremiah Wodke <jeremiah@thetaproom.com>",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.19"
@@ -39,26 +35,5 @@
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com//permute-js.git"
-  },
-  "keywords": [
-    "normalization",
-    "vuex",
-    "state",
-    "management",
-    "redux",
-    "data",
-    "normalization",
-    "validation",
-    "state",
-    "management",
-    "validation"
-  ],
-  "bugs": {
-    "url": "https://github.com/autom8-apps/permute-js/issues"
-  },
-  "homepage": "https://github.com/autom8-apps/permute-js#readme"
+  }
 }
