@@ -1,4 +1,4 @@
-# Webpack ES6 boilerplate
+# Webpack ES6 TypeSript Jest boilerplate
 
 A dead simple webpack babel and jest build configuration to get and up and running with a new package, project, etc. in minutes!
 
