@@ -16,7 +16,7 @@ A dead simple webpack babel and jest build configuration to get and up and runni
 
 ## Installation
 
-1. `git clone git@github.com:autom8-apps/webpack-es6-boilerplate.git`
+1. `git clone git@github.com:autom8-apps/webpack-es6-typescript-boilerplate.git`
 2. Run `npm install`
 3. Start the dev server using `npm start`
 
